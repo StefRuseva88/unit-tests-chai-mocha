@@ -1,4 +1,4 @@
-# Unit Tests with JS using Chai/Mocha:
+# Unit Testing Configuration using Chai/Mocha:
 ## This is a test project for Back-End Test Technologies January 2024 Course @ SoftUni.
 ---
 ## Overview
