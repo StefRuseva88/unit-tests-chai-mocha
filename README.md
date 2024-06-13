@@ -1,4 +1,4 @@
-### Unit Tests with JS using Chai Library and Mocha Framework
+# Unit Tests with JS using Chai/Mocha:
 ## This is a test project for Back-End Test Technologies January 2024 Course @ SoftUni.
 ---
 ## Overview
@@ -36,4 +36,12 @@ To run your tests with Mocha, use the following command:
 ```sh
 npm run test
 ```
+### Contributing
+Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
+
+### License
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
+
+### Contact
+For any questions or suggestions, please reach out to the course instructor or open an issue in the repository.
 
