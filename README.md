@@ -50,7 +50,15 @@ const myModule = require('./myModule');
 // Exporting a module
 module.exports = myFunction;
 ```
+### ECMAScript Modules (ESM)
+ECMAScript Modules (ESM) is the official standard for JavaScript modules. If you prefer to use ESM, you can do so by changing the file extensions to `.mjs` or by adding `"type": "module"` in the `package.json` file. Here is an example:
+```sh
+// Importing a module
+import myModule from './myModule';
 
+// Exporting a module
+export default myFunction;
+```
 ### Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
