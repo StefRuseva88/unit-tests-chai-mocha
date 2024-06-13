@@ -41,6 +41,15 @@ npm run test
 For the purposes of this project, it doesn't matter which standard you'd prefer to use – ESM or CommonJS. This time I used CommonJS.
 
 If you chose the CommonJS standard, you don't have to change the file extension of the test files and you don't need to add `"type": "module"` in the `package.json` file.
+### CommonJS
+CommonJS is a module system that is widely used in Node.js. In this project, I have used the CommonJS module format. This means you can require modules using `require()` and export modules using `module.exports`. Here is an example:
+```sh
+// Requiring a module
+const myModule = require('./myModule');
+
+// Exporting a module
+module.exports = myFunction;
+```
 
 ### Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
