@@ -38,7 +38,7 @@ npm run test
 ```
 
 ### Module Format
-For the purposes of this project, it doesn't matter which standard you'd prefer to use – ESM or CommonJS. I used CommonJS.
+For the purposes of this project, it doesn't matter which standard you'd prefer to use – ESM or CommonJS. This time I used CommonJS.
 
 If you chose the CommonJS standard, you don't have to change the file extension of the test files and you don't need to add `"type": "module"` in the `package.json` file.
 
