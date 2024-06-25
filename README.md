@@ -3,7 +3,7 @@
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-### This is a test project for Back-End Test Technologies January 2024 Course @ SoftUni.
+### This is a test project for **Back-End Test Technologies** January 2024 Course @ SoftUni.
 ---
 ## Overview
 
