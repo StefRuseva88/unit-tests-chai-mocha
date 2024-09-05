@@ -1,7 +1,5 @@
 # Unit Testing Configuration using Chai/Mocha:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Mocha](https://img.shields.io/badge/tested%20with-Mocha-8D6748.svg)](https://mochajs.org/)
 [![Chai](https://img.shields.io/badge/tested%20with-Chai-A30701.svg)](https://www.chaijs.com/)
 
