@@ -7,44 +7,48 @@
 ---
 ## Overview
 
-This project is designed to demonstrate how to set up and run tests using Mocha and Chai in a CommonJS environment. It includes the necessary steps to initialize a Node.js project, install dependencies, and run tests.
+This repository demonstrates how to configure and execute unit tests using Mocha and Chai in a Node.js environment. The project includes step-by-step instructions for initializing a Node.js project, installing dependencies, and setting up Mocha and Chai for testing.
 
 ## Getting Started
 
-### Prerequisites
+### Requirements
 
 Before you begin, ensure you have Node.js installed. You can download it from [Node.js official website](https://nodejs.org/).
 
 ### Installation
 
-1. **Initialize your project**
+1. **Initialize the Project**
+- Start by creating a `package.json` file:
 
     ```sh
     npm init
     ```
 
-    Follow the prompts to set up your `package.json`.
+- Follow the prompts to complete the setup.
 
-2. **Install Dependencies**
-
+2. **Install Mocha and Chai**
+- Install Mocha as the test runner and Chai for assertions:
+  
     ```sh
     npm install
     npm install chai
     npm install mocha
     ```
 
-### Running Tests
+### Running the Tests
 
-To run your tests with Mocha, use the following command:
+- To run your tests using Mocha, use the following command:
 
 ```sh
 npm run test
 ```
-
+- This will execute all tests within the project.
+  
 ### Module Format
 For the purposes of this project, it doesn't matter which standard you'd prefer to use – ESM or CommonJS. This time I used CommonJS.
 
 If you chose the CommonJS standard, you don't have to change the file extension of the test files and you don't need to add `"type": "module"` in the `package.json` file.
+
 ### CommonJS
 CommonJS is a module system that is widely used in Node.js. In this project, I have used the CommonJS module format. This means you can require modules using `require()` and export modules using `module.exports`. Here is an example:
 ```sh
